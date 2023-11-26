@@ -3,6 +3,7 @@ import React from 'react';
 const AboutMe = () =>{
     return(
         <>
+        <p>This is DEV</p>
         
         <h1>Name: Ebong, Samuel </h1>
         <p>I am orginally from Nigeria but have been in Canada for 6 years </p>
